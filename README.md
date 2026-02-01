@@ -11,11 +11,10 @@
 
 ### 🧠 Навыки
 
-- **Frontend**: React, Next.js, TypeScript, Redux  
-- **Backend**: Node.js, Express, GraphQL, REST, WebSockets  
-- **DevOps**: Docker, AWS, CI/CD, TDD  
+- **Frontend**: React, Vanilla, TypeScript, Redux  
+- **Backend**: C#, netCore, Node.js, Express, GraphQL, REST, WebSockets, Postgre  
 - **UI/UX**: Адаптивная верстка, визуализация данных, дизайн-системы  
-- **Дополнительно**: Code review, архитектура, менторство, README copywriting
+- **Дополнительно**: Code review, архитектура, менторство
 
 ---
 
